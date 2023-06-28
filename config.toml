@@ -1,7 +1,6 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-arch = "both"
 version = "auto"
 included-patches = "remove-player-controls-background"
-excluded-patches = "client-spoof copy-video-url custom-branding enable-debugging external-downloads premium-heading return-youtube-dislike sponsorblock spoof-app-version theme"
+excluded-patches = "copy-video-url custom-branding enable-debugging external-downloads premium-heading return-youtube-dislike sponsorblock spoof-app-version theme"
 
