@@ -1,7 +1,6 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
 version = "auto"
-excluded-patches = "bypass-ambient-mode-restrictions custom-branding-icon-revancify-blue custom-branding-youtube-name custom-double-tap-length custom-package-name custom-seekbar-color custom-video-speed default-video-speed disable-auto-captions enable-new-splash-animation enable-old-quality-layout enable-seekbar-tapping enable-tablet-mini-player enable-tablet-navigation-bar enable-timestamps-speed enable-wide-search-bar hide-autoplay-button hide-captions-button hide-comment-component hide-description-components hide-fullscreen-panels hide-live-chat-button hide-previous-next-button hide-time-stamp language-switch layout-switch return-youtube-dislike spoof-app-version swipe-controls theme"
+included-patches = "client-spoof disable-player-popup-panels disable-shorts-on-startup disable-zoom-haptics hdr-auto-brightness hide-ads hide-album-cards hide-breaking-news-shelf hide-cast-button hide-crowdfunding-box hide-email-address hide-endscreen-cards hide-filter-bar hide-floating-microphone-button hide-info-cards hide-layout-components hide-load-more-button hide-shorts-components hide-watch-in-vr hide-watermark minimized-playback navigation-buttons open-links-externally remember-video-quality sponsorblock vanced-microg-support video-ads"
+exclusive-patches = true
 
