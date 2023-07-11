@@ -1,5 +1,5 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "auto"
-included-patches = "Client spoof Disable Shorts on startup Disable player popup panels Disable zoom haptics Hide Shorts components Hide ads Hide album cards Hide breaking news shelf Hide cast button Hide crowdfunding box Hide email address Hide endscreen cards Hide filter bar Hide floating microphone button Hide info cards Hide layout components Hide load more button Hide watch in VR Hide watermark Minimized playback Navigation buttons Remember video quality SponsorBlock Vanced MicroG support Video ads"
+version = "18.20.39"
+included-patches = "Client spoof Disable Shorts on startup Disable player popup panels Disable zoom haptics Hide Shorts components Hide ads Hide album cards Hide breaking news shelf Hide cast button Hide crowdfunding box Hide email address Hide endscreen cards Hide filter bar Hide floating microphone button Hide info cards Hide layout components Hide load more button Hide watch in VR Hide watermark Minimized playback Navigation buttons Old video quality menu Open links externally Remember video quality SponsorBlock Vanced MicroG support Video ads"
 exclusive-patches = true
