@@ -1,6 +1,5 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "18.19.35"
-included-patches = "client-spoof disable-shorts-on-startup disable-player-popup-panels disable-zoom-haptics hide-shorts-components hide-ads hide-album-cards hide-breaking-news-shelf hide-cast-button hide-crowdfunding-box hide-email-address hide-endscreen-cards hide-filter-bar hide-floating-microphone-button hide-info-cards hide-layout-components hide-load-more-button hide-watch-in-vr hide-watermark minimized-playback navigation-buttons open-links-externally remember-video-quality sponsorblock vanced-microg-support video-ads"
-exclusive-patches = true
+version = "18.20.39"
+excluded-patches = "always-autorepeat comments copy-video-url custom-branding disable-auto-captions disable-fullscreen-panels enable-debugging external-downloads hide-autoplay-button hide-captions-button hide-player-buttons hide-player-overlay hide-timestamp hide-video-action-buttons premium-heading return-youtube-dislike seekbar-tapping spoof-app-version swipe-controls tablet-mini-player theme wide-searchbar"
 
