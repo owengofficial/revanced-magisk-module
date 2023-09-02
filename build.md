@@ -1,4 +1,4 @@
-YouTube: 18.20.39  
+YouTube: 18.34.38  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -6,7 +6,7 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-3.0.1-all.jar  
+CLI: j-hc/revanced-cli-3.1.0-all.jar  
 Integrations: ReVanced/revanced-integrations-0.117.0.apk  
 Patches: ReVanced/revanced-patches-2.189.0.jar  
 
