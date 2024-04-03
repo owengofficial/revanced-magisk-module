@@ -2,6 +2,5 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 version = "19.09.37"
-included-patches = "'Video ads' 'Hide ads' 'Minimized playback' 'Remove tracking query parameter' 'Bypass URL redirects' 'Open links externally' 'Disable zoom haptics' 'Remember video quality' 'Enable slide to seek' 'Disable precise seeking gesture' 'Seekbar tapping' 'Remove viewer discretion dialog' 'Disable player popup panels' 'Hide cast button' 'Navigation buttons' 'Disable resuming Shorts on startup' 'Hide breaking news shelf' 'Hide Shorts components' 'Disable rolling number animations' 'Hide floating microphone button' 'Hide endscreen cards' 'Hide crowdfunding box' 'Disable suggested video end screen' 'Hide 'Load more' button' 'Hide album cards' 'Hide filter bar' 'Hide layout components' 'Hide info cards'"
+included-patches = "'Remember video quality' 'Video ads' 'Hide ads' 'Disable resuming Shorts on startup' 'Hide Shorts components' 'Hide breaking news shelf' 'Hide album cards' 'Hide layout components' 'Disable suggested video end screen' 'Hide floating microphone button' 'Hide crowdfunding box' 'Hide endscreen cards' 'Disable rolling number animations' 'Hide info cards' 'Hide 'Load more' button' 'Hide filter bar' 'Disable player popup panels' 'Navigation buttons' 'Hide cast button' 'Restore old seekbar thumbnails' 'Bypass URL redirects' 'Open links externally' 'Disable zoom haptics' 'Minimized playback' 'Remove tracking query parameter' 'Enable slide to seek' 'Disable precise seeking gesture'"
 exclusive-patches = true
-
