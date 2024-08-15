@@ -1,10 +1,7 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "ReVanced/revanced-patches-2.187.0.jar"
-integrations-source = "ReVanced/revanced-integrations"
-rv-brand = "ReVanced ReVanced"
 build-mode = "module"
 version = "18.20.39"
-included-patches = "'Disable player popup panels' 'Disable resuming Shorts on startup' 'Hide autoplay button' 'Hide captions button' 'Navigation buttons' 'Hide cast button' 'Disable auto captions' 'Hide info cards' 'Hide floating microphone button' 'Hide album cards' 'Hide crowdfunding box' 'Hide breaking news shelf' 'Hide endscreen cards' 'Hide layout components' 'Hide Shorts components' 'Hide filter bar' 'Hide 'Load more' button' 'Disable suggested video end screen' 'Remember video quality' 'Video ads' 'Hide ads' 'Minimized playback' 'Open links externally' 'Bypass URL redirects' 'Disable zoom haptics'"
+included-patches = "'Disable Shorts on startup' 'Disable auto captions' 'Disable fullscreen panels' 'Disable player popup panels' 'Disable zoom haptics' 'Hide Shorts components' 'Hide ads' 'Hide album cards' 'Hide autoplay button' 'Hide breaking news shelf' 'Hide cast button' 'Hide crowdfunding box' 'Hide email address' 'Hide endscreen cards' 'Hide filter bar' 'Hide floating microphone button' 'Hide info cards' 'Hide layout components' 'Hide load more button' 'Hide seekbar' 'Hide watermark' 'Minimized playback' 'Navigation buttons' 'Open links externally' 'Remember video quality' 'Video ads'"
 exclusive-patches = true
 
