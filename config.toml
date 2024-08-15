@@ -1,7 +1,10 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
-version = "19.16.39"
-included-patches = "'Disable player popup panels' 'Hide album cards' 'Disable rolling number animations' 'Disable suggested video end screen' 'Hide crowdfunding box' 'Disable fullscreen ambient mode' 'Hide endscreen cards' 'Hide Shorts components' 'Hide floating microphone button' 'Hide info cards' 'Hide filter bar' 'Hide layout components' 'Disable resuming Shorts on startup' 'Restore old seekbar thumbnails' 'Hide cast button' 'Navigation buttons' 'Bypass image region restrictions' 'GmsCore support' 'Disable zoom haptics' 'Open links externally' 'Bypass URL redirects' 'Remove tracking query parameter' 'Remove background playback restrictions' 'Video ads' 'Hide ads' 'Remember video quality' 'Enable slide to seek' 'Seekbar tapping' 'Disable precise seeking gesture' 'Remove viewer discretion dialog'"
+patches-source = "ReVanced/revanced-patches-2.187.0.jar"
+integrations-source = "ReVanced/revanced-integrations"
+rv-brand = "ReVanced ReVanced"
+build-mode = "module"
+version = "18.20.39"
+included-patches = "'Disable player popup panels' 'Disable resuming Shorts on startup' 'Hide autoplay button' 'Hide captions button' 'Navigation buttons' 'Hide cast button' 'Disable auto captions' 'Hide info cards' 'Hide floating microphone button' 'Hide album cards' 'Hide crowdfunding box' 'Hide breaking news shelf' 'Hide endscreen cards' 'Hide layout components' 'Hide Shorts components' 'Hide filter bar' 'Hide 'Load more' button' 'Disable suggested video end screen' 'Remember video quality' 'Video ads' 'Hide ads' 'Minimized playback' 'Open links externally' 'Bypass URL redirects' 'Disable zoom haptics'"
 exclusive-patches = true
 
